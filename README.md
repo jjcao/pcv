@@ -31,7 +31,7 @@ estimation methods, including the latest deep learning based method.
 https://pan.baidu.com/s/1VZVWcjSr6TxqfQtfJfhk1A
 
 Synthesized Data Set
-<img src = "http://jjcao.github.io/images/ModelsSynthesis.jpg" height="300px"></img>
+<img src = "http://jjcao.github.io/images/ModelsSynthesis.png" height="300px"></img>
 Scanned Data Set
 <img src = "http://jjcao.github.io/images/ModelsRealscan.jpg" height="480px"></img>
 #### Comparisons
