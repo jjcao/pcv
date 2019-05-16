@@ -1,8 +1,6 @@
 # Multi-Normal Estimation via Pair Consistency Voting
 ie~Zhang, Junjie Cao (co-first authors), Xiuping Liu*, He Chen, Bo Li, Ligang Liu. 
 TVCG 2019
-
-[Project Page](https://ankachan.github.io/NormalEstimationBenchmarkPage/)
 ![Teaser Image](http://jjcao.github.io/images/MultiNormal.png)
 The normals of feature points, the intersection points of multiple smooth surfaces, are ambiguous and undefined. <br />
 
